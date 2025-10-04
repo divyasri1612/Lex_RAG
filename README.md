@@ -1,7 +1,7 @@
 # LexRAG: Legal Case Summarization and Retrieval using RAG for New Jersey Tax Court
 
 # 1. Why Did I Start the Project?
-I was struggling to file taxes as an international student in March, 2025. No matter how many resources I looked through, it always led to one dead-end, a third party service charging a fortune to file taxes for me. I was tired and wanted to build a smart assistant that could digest massive volumes of dry legal text and produce context-aware summaries and insights for international students struggling to find what is legal and what is not for us. For now, the proving ground is just NJ Tax laws for students on an F1 VISA.
+I was struggling to file taxes by myself in March, 2025. No matter how many resources I looked through, it always led to one dead-end, a third party service charging a fortune to file taxes for me. I was tired and wanted to build a smart assistant that could digest massive volumes of dry legal text and produce context-aware summaries and insights for international students struggling to find what is legal and what is not for us. For now, the proving ground is just NJ Tax laws for students on an F1 VISA.
 
 # 3. Main Goal of the Project:
 To create a web-based Retrieval-Augmented Generation (RAG) system that scrapes New Jersey Tax Court cases, processes the content, builds embeddings, and answers user queries using retrieved legal precedents. The idea is to assist legal aliens studying/working in the US with quick, relevant legal guidance based on actual case law.
